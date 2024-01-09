@@ -16,7 +16,7 @@ tickervolume = 0
 
 Dim summary_ticker As Integer
 summary_ticker = 2
-‘ stack overflow
+
 Dim initial As Double
 initial = Cells(2, 3).Value
 
