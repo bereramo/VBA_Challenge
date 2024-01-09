@@ -6,6 +6,6 @@ The percentage of change in the year
 The total stock volume 
 
 References
-1. Youtube- primarrily Excel Destination and TeachExcel
+1. Youtube- primarily Excel Destination and TeachExcel
 2. Statlogy.com
 3. Microsoft Community Questions
